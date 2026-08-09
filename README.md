@@ -1,12 +1,6 @@
 # Heart Disease Prediction
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-green)
-![XGBoost](https://img.shields.io/badge/XGBoost-Classification-red)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-
-> A machine learning classification project for predicting the presence of heart disease using patient health and clinical features.
+ A machine learning classification project for predicting the presence of heart disease using patient health and clinical features.
 
 ---
 
