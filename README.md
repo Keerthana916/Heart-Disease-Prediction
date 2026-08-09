@@ -193,5 +193,3 @@ The project conclusion identifies the Decision Tree model as the best-performing
 * **Sweetviz**
 * **Jupyter Notebook**
 
-
-`Python` • `SQL` • `Power BI` • `Machine Learning`
